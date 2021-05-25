@@ -7,8 +7,8 @@ error_reporting(E_ALL);
 /* Database credentials. Assuming you are running MySQL
 server with default setting (user 'root' with no password) */
 define('DB_SERVER', '127.0.0.1');
-define('DB_USERNAME', 'counter_user');
-define('DB_PASSWORD', '1qaz2wsx');
+define('DB_USERNAME', '******');
+define('DB_PASSWORD', '******');
 define('DB_NAME', 'counter');
  
 /* Attempt to connect to MySQL database */
